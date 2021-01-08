@@ -1,0 +1,7 @@
+D:\quadrate\Singleton\singleton\singleton\bin\Debug\singleton.exe.config
+D:\quadrate\Singleton\singleton\singleton\bin\Debug\singleton.exe
+D:\quadrate\Singleton\singleton\singleton\bin\Debug\singleton.pdb
+D:\quadrate\Singleton\singleton\singleton\obj\Debug\singleton.csprojAssemblyReference.cache
+D:\quadrate\Singleton\singleton\singleton\obj\Debug\singleton.csproj.CoreCompileInputs.cache
+D:\quadrate\Singleton\singleton\singleton\obj\Debug\singleton.exe
+D:\quadrate\Singleton\singleton\singleton\obj\Debug\singleton.pdb
